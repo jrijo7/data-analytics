@@ -1,4 +1,3 @@
-```markdown
 # data-analytics
 
 Este repositório contém as resoluções das listas de exercícios, desafios e os códigos de exemplos práticos desenvolvidos durante a formação em Data Analytics.
@@ -53,7 +52,3 @@ git clone [https://github.com/jrijo7/data-analytics.git](https://github.com/SEU_
 * **VS Code** (com a extensão do Jupyter instalada)
 * **Jupyter Lab** / **Jupyter Notebook** local
 * **Google Colab** (basta fazer o upload do arquivo diretamente na plataforma)
-
-
-
-```
